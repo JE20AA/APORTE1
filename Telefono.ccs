@@ -1,0 +1,5 @@
+public class Telef : Clientee
+{
+  public string pais { set; get; }
+  public int chip { set; get; }
+}
